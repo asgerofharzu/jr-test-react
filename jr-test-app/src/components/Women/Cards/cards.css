@@ -1,0 +1,16 @@
+.a{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 160%;
+    color: grey;
+}
+.b{
+    font-size: 14px;
+}
+
+.card-container{
+    display: inline-block;
+    padding : 0 80px;
+}
